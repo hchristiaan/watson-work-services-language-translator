@@ -1,2 +1,2 @@
-# watson-work-services-language-translator:wq
+# watson-work-services-language-translator
 
