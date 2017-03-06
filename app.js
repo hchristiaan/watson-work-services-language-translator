@@ -21,8 +21,8 @@ const webhookKeyword = "@tr";
 const LanguageTranslatorV2 = require('watson-developer-cloud/language-translator/v2');
 
 const language_translator = new LanguageTranslatorV2({
-	  username: '341590ba-43a8-434d-ad5c-f6539c19c2a0',
-	  password: 'spQ8R0Rz1Bcj',
+	  username: 'username',
+	  password: 'password',
 	  url: 'https://gateway.watsonplatform.net/language-translator/api/'
 	});
 
